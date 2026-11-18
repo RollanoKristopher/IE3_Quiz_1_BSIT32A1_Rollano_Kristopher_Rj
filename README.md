@@ -1,8 +1,6 @@
 View 'Instructions' folder for the details.
 
-Name your repository as IE3\_SECTION\_LASTNAME\_FIRSTNAME
-
-
+Name your repository as IE3\BSIT32A1\_Rollano\_Kristopher_Rj
 
 
 
