@@ -1,6 +1,6 @@
 View 'Instructions' folder for the details.
 
-Name your repository as IE3\BSIT32A1\_Rollano\_Kristopher_Rj
+ IE3_Quiz_1_BSIT32A1_Rollano_Kristopher_Rj
 
 
 
